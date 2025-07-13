@@ -30,29 +30,29 @@ The following titles are subject to change in regard to how and when they're ear
 
 > Others are starting to notice you and your abilities, and even reaching out to you for your help on certain jobs.
 
-> **This title is obtained at level 7.**
+> **This title is obtained at level 6.**
 
 ### neon_operative
 
 > You are a regular in hacker circles and are considered dependable.
 
-> **This title is obtained at level 10.**
+> **This title is obtained at level 9.**
 
 ### system_breaker
 
 > Hacker groups seek you out for contracts and have even invited you to join them, but you're too busy honing your craft.
 
-> **This title is obtained at level 13.**
+> **This title is obtained at level 12.**
 
 ### shell_assassin
 
 > State-sponsored groups now actively seek you out to provide political _assistance_.
 
-> **This title is obtained at level 16.**
+> **This title is obtained at level 15.**
 
 ### terminal_ghost
 
-> **This title is obtained at level 19.**
+> **This title is obtained at level 18.**
 
 > You have attained legendary status in the hacker community. Your identity still unknown around the world, many have tried to even hack you to find out just who you really are.
 
@@ -60,7 +60,7 @@ The following titles are subject to change in regard to how and when they're ear
 
 > Mostly retired at this point, you only take on the occasional large bounty contracts when you feel the itch.
 
-> **This title is obtained at level 22.**
+> **This title is obtained at level 21.**
 
 ### the_disconnected
 
