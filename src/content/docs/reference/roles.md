@@ -56,9 +56,9 @@ The following titles are subject to change in regard to how and when they're ear
 
 > You have attained legendary status in the hacker community. Your identity still unknown around the world, many have tried to even hack you to find out just who you really are.
 
-### ghost_in_the_wire
+### ghost_in_the_wires
 
-> Mostly retired at this point, you only take on the occasional large bounty contracts when you feel the itch.
+> Semi-retired, you only take on the occasional large bounty contracts when you feel the itch.
 
 > **This title is obtained at level 21.**
 
