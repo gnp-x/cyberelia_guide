@@ -18,6 +18,11 @@ export default defineConfig({
                     href: "https://discord.gg/qfS2EPUGuB",
                 },
                 {
+                    icon: "github",
+                    label: "github",
+                    href: "https://github.com/cyberelia/cyberelia_guide",
+                },
+                {
                     icon: "blueSky",
                     label: "blue sky",
                     href: "https://bsky.app/profile/cyberelia.net",
