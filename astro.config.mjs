@@ -14,6 +14,11 @@ export default defineConfig({
                     label: "discord",
                     href: "https://discord.gg/qfS2EPUGuB",
                 },
+                {
+                    icon: "blueSky",
+                    label: "blue sky",
+                    href: "https://bsky.app/profile/cyberelia.net",
+                },
             ],
             sidebar: [
                 {
