@@ -7,6 +7,9 @@ export default defineConfig({
     integrations: [
         starlight({
             title: "c y b e r e l i a",
+            logo: {
+                src: `./src/assets/logo.webp`,
+            },
             customCss: ["./src/style/custom.css"],
             social: [
                 {
