@@ -33,10 +33,6 @@ export default defineConfig({
                     label: "commands",
                     autogenerate: { directory: "commands" },
                 },
-                // {
-                //     label: "roles",
-                //     autogenerate: { directory: "roles" },
-                // },
                 {
                     label: "reference",
                     autogenerate: { directory: "reference" },
