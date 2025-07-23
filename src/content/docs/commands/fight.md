@@ -12,9 +12,9 @@ title: /fight
 
 #### difficulty parameter
 
--   easy :: fight harder enemies later.
+-   easy
 -   normal
--   hard :: fight harder enemies sooner.
+-   hard
 
 ### **player**
 
