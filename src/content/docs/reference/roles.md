@@ -4,7 +4,7 @@ title: roles
 
 ## /user/
 
-> Obtained through using the [register](/commands/register) role. This grants the player the ability to use the various commands needed to engage with the game. Currently, the only command useable at this time is the [fight](/commands/fight) command.
+> Obtained through registration of new users when they run the [cybr](/commands/cybr) command. This grants the player the ability to use the various commands needed to engage with the game. Currently, the only command useable at this time is the [fight](/commands/fight) command.
 
 :::note
 The following titles are subject to change in regard to how and when they're earned.
