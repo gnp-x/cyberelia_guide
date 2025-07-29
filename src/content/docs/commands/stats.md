@@ -6,4 +6,4 @@ title: /stats
 
 ## description
 
-`/stats` provides the player with their current hp, power, level, and xp in stylized text.
+`/stats` provides the player with their current stats.
