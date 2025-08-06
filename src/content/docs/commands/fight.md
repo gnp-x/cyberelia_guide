@@ -16,16 +16,16 @@ title: /fight
 -   normal
 -   hard
 
-:::note
-The following modifiers are currently being tuned and are subject to change.
-:::
-
 #### (optional) modifiers
 
-Modifiers require one hacking point in order to be used in a fight.
-
 -   data_corruption
-    -   Currently provides a 10% chance on the beginning of the player's turn to instantly kill the enemy.
+    -   Provides a 6.25% chance on the beginning of the player's turn to instantly kill the enemy.
+-   algorithmic_steps
+    -   Provides a 10% chance on disabling the enemy on its turn.
+
+:::note
+Modifiers require one hacking point in order to be used in a fight. They are also currently being tuned and are subject to change.
+:::
 
 ### **player**
 
