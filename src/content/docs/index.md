@@ -5,7 +5,7 @@ template: doc
 
 This website serves as a reference guide for the game. If there
 is ever any questions you have that this guide does not cover, please let us know
-by emailing us at admin@cyberelia.net, or in our discord. 
+by emailing us at admin@cyberelia.net, or in our discord.
 
 For those that have knowledge of the game and wish to contribute to this guide, feel free to do so through the github repo.
 
