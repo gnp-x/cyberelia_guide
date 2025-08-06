@@ -8,19 +8,25 @@ title: /fight
 
 ### **enemy**
 
-`/fight enemy (difficulty)` engages the user with a one-off encounter with an enemy. This has a two minute cooldown across the board, but will be adjusted depending on difficulty at a later date. This takes place in the channel `#enemy-arena`.
+`/fight enemy [difficulty] (modifier)` engages the user with a one-off encounter with an enemy. This has a two minute cooldown across the board, but will be adjusted depending on difficulty at a later date. This takes place in the channel `#enemy-arena`.
 
-#### difficulty parameter
+#### [required] difficulty
 
 -   easy
 -   normal
 -   hard
 
+:::note
+The following modifiers are currently being tuned and are subject to change.
+:::
+
+#### (optional) modifiers
+
+Modifiers require one hacking point in order to be used in a fight.
+
+-   data_corruption
+    -   Currently provides a 10% chance on the beginning of the player's turn to instantly kill the enemy.
+
 ### **player**
 
-`/fight player` engages the user with a one-off encounter with a player. This has a 6-hour cooldown. Whoever wins, gains half of the loser's total xp. This takes place in the channel `#pvp-arena`.
-
-## to_be_implemented
-
--   XP loss
--   Proper enemy scaling
+When a player has reached a certain point in the story, the option to fight other players unlocks. `/fight player` engages the user with a one-off encounter with a player. This has an hour cooldown. Whoever wins, gains a succession point. PvP takes place in the channel `#pvp-arena`.

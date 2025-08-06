@@ -1,17 +1,19 @@
 {
-  "name": "guide",
-  "type": "module",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
-  },
-  "dependencies": {
-    "@astrojs/starlight": "0.35.2",
-    "astro": "5.12.8",
-    "sharp": "^0.34.2"
-  }
+    "name": "guide",
+    "type": "module",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "bun --bun astro dev",
+        "build": "bunx --bun astro build",
+        "preview": "bunx --bun astro preview",
+        "astro": "astro"
+    },
+    "dependencies": {
+        "@astrojs/starlight": "0.35.2",
+        "astro": "5.12.8",
+        "sharp": "^0.34.2"
+    },
+    "devDependencies": {
+        "@types/bun": "^1.2.19"
+    }
 }
