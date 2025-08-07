@@ -20,7 +20,7 @@ title: /fight
 
 -   data_corruption
     -   Provides a 6.25% chance on the beginning of the player's turn to instantly kill the enemy.
--   algorithmic_steps
+-   algorithmic_glitch
     -   Provides a 10% chance on disabling the enemy on its turn.
 
 :::note
