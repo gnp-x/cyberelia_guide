@@ -16,12 +16,14 @@ title: /fight
 -   normal
 -   hard
 
-#### (optional) modifiers
-
+#### (optional) hack
+These are modifiers that affect the circumstances of a fight.
 -   data_corruption
-    -   Provides a 6.25% chance on the beginning of the player's turn to instantly kill the enemy.
+    -   Provides a 6.25% chance to kill the enemy during the beginning of the player's turn .
 -   algorithmic_steps
-    -   Provides a 10% chance on disabling the enemy on its turn.
+    -   Provides a 10% chance on making the enemy miss on its next attack.
+-   hack_n_slash
+    -   1.25 flat damage multiplier for each player attack.
 
 :::note
 Modifiers require one hacking point in order to be used in a fight. They are also currently being tuned and are subject to change.
