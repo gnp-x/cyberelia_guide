@@ -10,4 +10,4 @@ To contribute, fork this repo and open a PR with your edits.
 
 ## Issues
 
-Please give us enough details so we can help you if you have an issue with the guide information. You can also use issues to provide small edits if you're unfamiliar with starlight. However, any lengthy additions will need to be done with a PR request.
+Please give us enough details so we can help you if you have an issue with the guide information. You can also use issues to provide small edits if you're unfamiliar with starlight. However, any lengthy additions will need to be done with a PR.
