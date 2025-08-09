@@ -6,4 +6,4 @@ title: /stats
 
 ## description
 
-`/stats` provides the player with their current stats.
+`/stats` provides the player with their current stats and attribute points.
