@@ -2,8 +2,11 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
+import sitemap from "@astrojs/sitemap";
+
 // https://astro.build/config
 export default defineConfig({
+    site: "https://guide.cyberelia.net",
     integrations: [
         starlight({
             title: "c y b e r e l i a",
@@ -18,9 +21,9 @@ export default defineConfig({
                     href: "https://discord.gg/xgfyfZESkv",
                 },
                 {
-                    icon: "github",
-                    label: "github",
-                    href: "https://github.com/cyberelia/cyberelia_guide",
+                    icon: "codeberg",
+                    label: "codeberg",
+                    href: "https://codeberg.org/c-h-i/cyberelia_guide",
                 },
                 {
                     icon: "blueSky",
@@ -39,5 +42,6 @@ export default defineConfig({
                 },
             ],
         }),
+        sitemap(),
     ],
 });
