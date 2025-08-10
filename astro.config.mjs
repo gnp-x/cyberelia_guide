@@ -23,7 +23,7 @@ export default defineConfig({
                 {
                     icon: "codeberg",
                     label: "codeberg",
-                    href: "https://codeberg.org/c-h-i/cyberelia_guide",
+                    href: "https://codeberg.org/gnp/cyberelia_guide",
                 },
                 {
                     icon: "blueSky",

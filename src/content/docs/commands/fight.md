@@ -18,7 +18,7 @@ title: /fight
 
 #### (optional) hack
 
-These are modifiers that affect the circumstances of a fight.
+These are modifiers that affect the circumstances of a fight. Each use of a modifier requires one hacking point in order to be used in a fight.
 
 -   data_corruption
     -   Provides a chance to kill the enemy during the beginning of the player's turn.
@@ -27,8 +27,8 @@ These are modifiers that affect the circumstances of a fight.
 -   hack_n_slash
     -   Provides a flat damage multiplier for each player attack.
 
-:::note
-Modifiers require one hacking point in order to be used in a fight. They are also currently being tuned and are subject to change.
+:::tip
+Investment of analysis points increases the effectiveness of each modifier.
 :::
 
 ### **player**
