@@ -8,7 +8,7 @@ title: /fight
 
 ### **enemy**
 
-`/fight enemy [difficulty] (modifier)` engages the user with a one-off encounter with an enemy. This has a two minute cooldown across the board, but will be adjusted depending on difficulty at a later date. This takes place in the channel `#enemy-arena`.
+`/fight enemy [difficulty] (modifier)` engages the user with a one-off encounter with an enemy. This has a two minute cooldown across the board, but will be adjusted depending on difficulty at a later date. This takes place in the channel `#arena`.
 
 #### [required] difficulty
 
@@ -33,7 +33,7 @@ Investment of analysis points increases the effectiveness of each modifier.
 
 ### **boss**
 
-`/fight boss [name] (modifier)` engages the user with a one-off encounter with available bosses in the drop-down list. The ability to fight bosses are heavily conditionalized based on where the player is in the story and whatever pre-reqs are required in order to engage. This takes place in the channel `#boss-arena`.
+`/fight boss [name] (modifier)` engages the user with a one-off encounter with available bosses in the drop-down list. The ability to fight bosses are heavily conditionalized based on where the player is in the story and whatever pre-reqs are required in order to engage. This takes place in the channel `#arena`.
 
 #### [required] boss
 
@@ -50,4 +50,4 @@ These are the same modifiers available in /fight enemy; however data_corruption 
 
 ### **player**
 
-When a player has reached a certain point in the story, the option to fight other players unlocks. `/fight player` engages the user with a one-off encounter with a player. This has an hour cooldown. Whoever wins, gains a succession point. PvP takes place in the channel `#pvp-arena`.
+When a player has reached a certain point in the story, the option to fight other players unlocks. `/fight player` engages the user with a one-off encounter with a player. This has an hour cooldown. Whoever wins, gains a succession point. PvP takes place in the channel `#arena`.
