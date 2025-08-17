@@ -2,7 +2,7 @@
 title: /hack
 ---
 
-`/hack` is a command available to those with the [/user/](/reference/roles/#user) role.
+`/hack` is a command available to those with the [/user/](/reference/roles/#user) role and has reached a certain point in the storyline.
 
 ## usage
 
