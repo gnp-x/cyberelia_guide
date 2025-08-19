@@ -4,8 +4,6 @@ title: attributes
 
 After unlocking the gym, you can distribute your attributes as you see fit.
 
-## attributes
-
 -   targeting
     -   max damage dealt +1 per point
 -   reflex

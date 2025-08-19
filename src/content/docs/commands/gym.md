@@ -24,5 +24,5 @@ You cannot use less or more than the points alloted to you. You must _allocate_ 
 </span>).
 :::
 :::note
-Attributes aren't wired into any game logic at this time, but are being slowly implemented over time as we build more of the game.
+Efficiency is not currently in the game as of writing this.
 :::
