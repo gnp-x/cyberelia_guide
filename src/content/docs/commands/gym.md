@@ -6,7 +6,7 @@ title: /gym
 
 ## usage
 
-The gym allows you to re-allocate your [attribute](/reference/player/#attributes) points every 12 hours or as desired beyond the cooldown.
+The gym allows you to re-allocate your [attribute](/reference/attributes/) points every 12 hours or as desired beyond the cooldown.
 :::tip
 Run the command [/stats](/commands/stats/) to see how many points you can allocate if you don't know.
 :::
