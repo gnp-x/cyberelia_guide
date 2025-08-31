@@ -17,7 +17,7 @@ title: /fight
 -   HoloArena
     -   Suitable for beginners.
 -   Scrapyard
-    -   Suitable for levels 5-8.
+    -   Suitable for levels 6-8.
 
 #### (optional) hack
 
