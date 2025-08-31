@@ -8,13 +8,16 @@ title: /fight
 
 ### **enemy**
 
-`/fight enemy [difficulty] (modifier)` engages the user with a one-off encounter with an enemy. This has a two minute cooldown across the board, but will be adjusted depending on difficulty at a later date. This takes place in the channel `#arena`.
+`/fight enemy [location] (modifier)` engages the user with a one-off encounter with an enemy. This has a two minute cooldown across the board, but will be adjusted depending on difficulty at a later date. This takes place in the channel `#arena`.
 
-#### [required] difficulty
+#### [required] location
 
--   easy
--   normal
--   hard
+-   storyNET
+    -   This area is dedicated to progressing the story experienced when running `/cybr`. While some story progression may happen in other areas, this is the main area.
+-   HoloArena
+    -   Suitable for beginners.
+-   Scrapyard
+    -   Suitable for levels 5-8.
 
 #### (optional) hack
 
@@ -31,23 +34,9 @@ These are modifiers that affect the circumstances of a fight. Each use of a modi
 Investment of analysis points increases the effectiveness of each modifier.
 :::
 
-### **boss**
-
-`/fight boss [name] (modifier)` engages the user with a one-off encounter with available bosses in the drop-down list. The ability to fight bosses are heavily conditionalized based on where the player is in the story and whatever pre-reqs are required in order to engage. This takes place in the channel `#arena`.
-
-#### [required] boss
-
--   name selection
-
-#### (optional) hack
-
-These are the same modifiers available in /fight enemy; however data_corruption is unavailable for boss fights. As mentioned in the tip above, analysis points will make these more effective.
-
--   algorithmic_steps
-    -   Provides a chance on making the enemy miss on its next attack.
--   hack_n_slash
-    -   Provides a flat damage multiplier for each player attack.
-
 ### **player**
 
+:::note
+This area will likely be converted into a location in the future.
+:::
 When a player has reached a certain point in the story, the option to fight other players unlocks. `/fight player` engages the user with a one-off encounter with a player. This has an hour cooldown. Whoever wins, gains a succession point. PvP takes place in the channel `#arena`.
