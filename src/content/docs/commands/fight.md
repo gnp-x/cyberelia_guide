@@ -13,11 +13,9 @@ title: /fight
 #### [required] location
 
 -   storyNET
-    -   This area is dedicated to progressing the story experienced when running `/cybr`. While some story progression may happen in other areas, this is the main area.
+    -   This area is dedicated to progressing the story experienced when running `/cyberelia`. While some story progression may happen in other areas, this is the main area.
 -   HoloArena
-    -   Suitable for beginners.
 -   Scrapyard
-    -   Suitable for levels 6-8.
 
 #### (optional) hack
 
