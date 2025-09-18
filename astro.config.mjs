@@ -21,9 +21,9 @@ export default defineConfig({
                     href: "https://discord.gg/xgfyfZESkv",
                 },
                 {
-                    icon: "codeberg",
-                    label: "codeberg",
-                    href: "https://codeberg.org/gnp/cyberelia_guide",
+                    icon: "github",
+                    label: "github",
+                    href: "https://github.com/gnp-x/cyberelia_guide",
                 },
                 {
                     icon: "blueSky",
