@@ -4,15 +4,15 @@ template: doc
 ---
 
 export function GetTime() {
-    const time = new Date().toLocaleString();
-    return <p style={{ fontWeight: "bold" }}>Last modified: {time}</p>;
+    const time = new Date().toISOString().slice(0, 10);
+    return <p style={{ fontWeight: "bold" }}>Guide last edited: {time}</p>;
 }
 
 This website serves as a reference guide for the game. If there is ever any questions
 you have that this guide does not cover, please let us know by emailing us at admin@cyberelia.net,
 or in our discord.
 
-For those that have knowledge of the game and wish to contribute to this guide, feel free to do so through the [codeberg repo](https://codeberg.org/gnp/cyberelia_guide).
+For those that have knowledge of the game and wish to contribute to this guide, feel free to do so through the [repo](https://github.com/gnp-x/cyberelia_guide).
 
 :::caution
 This game is a heavy work-in-progress, but if you wish to help test the game, feel free to join the discord and register.
