@@ -12,24 +12,22 @@ title: /fight
 
 #### [required] location
 
--   storyNET
-    -   This area is dedicated to progressing the story experienced when running `/cyberelia`. While some story progression may happen in other areas, this is the main area.
--   HoloArena
--   Scrapyard
+- HoloArena
+- Scrapyard
 
 #### (optional) hack
 
 These are modifiers that affect the circumstances of a fight. Each use of a modifier requires one hacking point in order to be used in a fight.
 
--   data_corruption
-    -   Provides a chance to kill the enemy during the beginning of the player's turn.
--   algorithmic_steps
-    -   Provides a chance on making the enemy miss on its next attack.
--   hack_n_slash
-    -   Provides a flat damage multiplier for each player attack.
+- data_corruption
+  - Provides a chance to kill the enemy during the beginning of the player's turn.
+- algorithmic_steps
+  - Provides a chance on making the enemy miss on its next attack.
+- hack_n_slash
+  - Provides a flat damage multiplier for each player attack.
 
 :::tip
-Investment of analysis points increases the effectiveness of each modifier.
+Investment of analysis points increases the effectiveness of each modifier. In fact, they're so helpful that if you try to run a modifier with no analysis point investment, we disable the modifier from running in that fight so you don't waste a hacking point on it.
 :::
 
 ### **player**

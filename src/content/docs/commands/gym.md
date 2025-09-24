@@ -13,12 +13,12 @@ Run the command [/stats](/commands/stats/) to see how many points you can alloca
 
 #### [required] attributes
 
--   targeting
--   reflex
--   analysis
+- targeting
+- reflex
+- analysis
 
 :::caution
-You cannot use less than the points alloted to you. You must allocate them _all_. Since you can re-allocate once an hour, there's no reason to hoard unallocated points (you can't anyway<span>
+You cannot use less than the points alloted to you. You must allocate them _all_. Since you can re-allocate once every 5 minutes, there's no reason to hoard unallocated points (you can't anyway<span>
 🙂
 </span>).
 :::
